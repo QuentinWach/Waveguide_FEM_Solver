@@ -187,7 +187,7 @@ The solver is intentionally kept as a single file for portability and ease of em
 ## References
 
 The mixed-element FEM formulation follows the approach described in:
-
+- J. . -F. Lee, "Finite element analysis of lossy dielectric waveguides," *IEEE Trans. Microwave Theory Tech.*, vol. 42, no. 6, pp. 1025-1031, June 1994, doi: 10.1109/22.293572
 - Koshiba & Inoue, "Simple and efficient finite-element analysis of microwave and optical waveguides," *IEEE Trans. Microwave Theory Tech.*, 1992.
 - Sellmeier coefficients for Si₃N₄: Luke et al., *Opt. Lett.* 40, 4823 (2015).
 - Sellmeier coefficients for SiO₂: Malitson, *JOSA* 55, 1205 (1965).
