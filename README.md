@@ -5,8 +5,9 @@ A self-contained Python implementation of a full-vectorial finite element method
 The default test case models a **Si₃N₄-on-SiO₂** (silicon nitride) ridge waveguide at λ = 1.55 µm, but the solver is geometry- and material-agnostic.
 
 ---
+![FEM Output (MATLAB)](FEM_output_MATLAB.png)
 
-![FEM Output](FEM_output.png)
+![FEM Output (Python)](FEM_output.png)
 
 ## Features
 
