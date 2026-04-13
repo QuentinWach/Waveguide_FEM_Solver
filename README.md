@@ -71,6 +71,20 @@ pip install waveguide-fem
 Python 3.8+ is required. No other dependencies.
 
 ---
+## Full Functionality
+Import these for full functionality
+```bash
+from waveguide_fem import build_soi_mesh, compute_modes, get_refractive_index
+from waveguide_fem import plot_mode_fields, calculate_overlap
+import time
+import numpy as np
+from scipy.sparse import csr_matrix
+from scipy.sparse.linalg import eigs
+import matplotlib.pyplot as plt
+import matplotlib.tri as mtri
+from matplotlib.colors import Normalize
+from matplotlib.cm import ScalarMappable
+```
 
 ## Quick Start
 
