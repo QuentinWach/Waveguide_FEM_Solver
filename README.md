@@ -61,10 +61,11 @@ All lengths are in micrometres. Permittivity is assigned per element centroid ba
 
 ---
 
-## Installation
+## Full Installation
 
 ```bash
 pip install numpy scipy matplotlib
+pip install waveguide-fem
 ```
 
 Python 3.8+ is required. No other dependencies.
