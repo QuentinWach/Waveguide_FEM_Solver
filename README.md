@@ -1,4 +1,4 @@
-# Full-Vectorial FEM Waveguide Mode Solver
+# Full-Vectorial, FEM-Based Dielectric Waveguide Mode Solver
 
 A self-contained Python implementation of a full-vectorial finite element method (FEM) solver for computing guided modes in dielectric optical waveguides. Originally written in MATLAB and ported to Python using NumPy, SciPy, and Matplotlib — no commercial toolboxes or external mesh generators required.
 
